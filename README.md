@@ -13,7 +13,8 @@
   
 **4 Check the database:**
 - Verify the inserted data in the Student table.
-<img src=" ">
+<img src=" https://github.com/NaveenMalave/Employee_Management_System_Hibernate/blob/main/Images/HibernateFirst%20MySQL.png">
+<img src="https://github.com/NaveenMalave/Employee_Management_System_Hibernate/blob/main/Images/HibernateFirst%20Eclipse.png ">
 
 ## EmployeeHibernateProject
 ### How to Run
@@ -30,6 +31,10 @@
   
 **4.	Verify the Results:**
 - 	Check the EmployeeDetails table in the database for changes.
+  
+  <img src="https://github.com/NaveenMalave/Employee_Management_System_Hibernate/blob/main/Images/EmployeeHibernate_MySQL.png">
+  
+  <img src=" https://github.com/NaveenMalave/Employee_Management_System_Hibernate/blob/main/Images/EmployeeHibernate_Eclipse.png">
 ________________________________________
 
 ## Technologies used
