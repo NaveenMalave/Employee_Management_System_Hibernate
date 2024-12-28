@@ -1,5 +1,6 @@
 # Employee_Management_System_Hibernate
-## How to Run
+## HibernateFirst
+### How to Run
 **1 Set up the MySQL database:**
 - Create the database julyjdbc.
 - Ensure the username/password matches those in hibernate.cfg.xml.
