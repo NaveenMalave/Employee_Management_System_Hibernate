@@ -15,6 +15,23 @@
 - Verify the inserted data in the Student table.
 <img src=" ">
 
+## EmployeeHibernateProject
+### How to Run
+
+**1.	Database Setup:**
+- Create a MySQL database named julyjdbc.
+- Ensure the username and password in hibernate.cfg.xml match your MySQL credentials.
+  
+**2.	Build the Project:**
+- Use Maven to resolve dependencies and compile the code.
+  
+**3.	Run App.java:**
+- 	Choose an option from the menu to perform CRUD operations.
+  
+**4.	Verify the Results:**
+- 	Check the EmployeeDetails table in the database for changes.
+________________________________________
+
 ## Technologies used
 **1 Java:**
 - Primary programming language used for the application logic.
