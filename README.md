@@ -13,3 +13,4 @@
   
 **4 Check the database:**
 - Verify the inserted data in the Student table.
+<img src=" ">
